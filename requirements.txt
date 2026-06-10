@@ -1,0 +1,6 @@
+pypdf
+chromadb
+sentence-transformers
+requests
+cryptography
+encypher-ai
