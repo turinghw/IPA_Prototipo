@@ -1,6 +1,15 @@
-# Sistema RAG con Trazabilidad C2PA
+# Prototipo IPA
 
 **Institución:** Instituto Tecnológico de Costa Rica (TEC) - Maestría en Ciberseguridad
+**Curso:** Investigación práctica aplicada I GR 40
+
+
+## Equipo de Trabajo
+
+| # | Nombre completo | Número de carné |
+|---|-----------------|-----------------|
+| 1 | Ávila Ramírez Paublo Alexander | 2022035584 |
+| 2 | Trejos Quirós María Carolina | 2026801095 |
 
 Este repositorio contiene el prototipo funcional de un sistema de Generación Aumentada por Recuperación (RAG) diseñado con un enfoque estricto en trazabilidad documental, seguridad frente a vulnerabilidades y auditoría de la procedencia de la información. El proyecto implementa los estándares de integridad C2PA (Coalition for Content Provenance and Authenticity) sobre texto puro a través de selectores de variación Unicode.
 
